@@ -7,4 +7,4 @@ lynx and aria2
 
 ##Usage
 
-./4chan.sh thread link here
+`./4chan.sh threadlink`
