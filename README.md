@@ -1,7 +1,5 @@
 # 4chan-Downloader
-##Downloads all the images in a 4chan thread into a single folder
-
-Download all images and other media from 4chan thread
+Download all images and other media from 4chan thread in to folder
 
 ##Requirements
 
