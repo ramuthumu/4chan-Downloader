@@ -2,8 +2,9 @@
 Download all images and other media from 4chan thread in to single folder
 
 ## Requirements
-This script requires you to have installed lynx and aria2 
-lynx and aria2
+This script requires lynx and aria2 installed on your machine 
+
+[lynx ](http://lynx.browser.org/) and [aria2](https://aria2.github.io/) can be found here
 
 ## ubuntu
 ```
